@@ -3,7 +3,6 @@ In this repo all the module task of JPmorgan insidesherpa online remote internsi
 Pull all the file in your local machine:
 <br>``git pull https://github.com/subhajitkp007/JPMorgan_remote_Internship.git``
 ## Task 1 Interface with a stock price data feed
-(intialise task) <br>
 Click view task -> Scroll down to point 3 and click on click open REPL env (use python 3)<br>
 Click Fork button it is on the top right corner<br>
 Then in command terminal paste the bellow code <br>
@@ -38,5 +37,5 @@ If everything works fine paste the the bellow command on REPL terminal<br>
 ``mv 0001-Create-Patch-File.patch ../.``<br>
 ``exit``<br>
 Now upload 0001-Create-Patch-File.patch patch file after clicking on the
-"Click here to submit your work"
-Congrats you have completed task one
+"Click here to submit your work"<br>
+###Congrats you have completed task one
